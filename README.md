@@ -4,11 +4,21 @@ Variety of curated data science books
 ## Books for Machine Learning and Data Science
 - [Data Strategy](https://www.amazon.com/Data-Strategy-Profit-Analytics-Internet/dp/074947985X/)
 
-## 10 Free Must-Read Books for Machine Learning and Data Science
-- [Think Stats: Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/)
+## 5 Free Must-Read Books for Machine Learning and Data Science
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+    An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view. The Bayesian method is the natural approach to inference, yet it is hidden from readers behind chapters of slow, mathematical analysis. The typical text on Bayesian inference involves two to three chapters on probability theory, then enters what Bayesian inference is. Unfortunately, due to mathematical intractability of most Bayesian models, the reader is only shown simple, artificial examples. This can leave the user with a so-what feeling about Bayesian inference. In fact, this was the author's own prior opinion.
+    
 - [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
-- [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
+    Machine learning is one of the fastest growing areas of computer science, with far-reaching applications. The aim of this textbook is to introduce machine learning, and the algorithmic paradigms it offers, in a principled way. The book provides a theoretical account of the fundamentals underlying machine learning and the mathematical derivations that transform these principles into practical algorithms. Following a presentation of the basics, the book covers a wide array of central topics unaddressed by previous textbooks. These include a discussion of the computational complexity of learning and the concepts of convexity and stability; important algorithmic paradigms including stochastic gradient descent, neural networks, and structured output learning; and emerging theoretical concepts such as the PAC-Bayes approach and compression-based bounds.
+    
+- [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+    This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist.
+    
+- [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
+    While traditional areas of computer science remain highly important, increasingly researchers of the future will be involved with using computers to understand and extract usable information from massive data arising in applications, not just how to make computers useful on specific well-defined problems. With this in mind we have written this book to cover the theory likely to be useful in the next 40 years, just as an understanding of automata theory, algorithms, and related topics gave students an advantage in the last 40 years.
+    
+- [A Programmer's Guide to Data Mining: The Ancient Art of the Numerati](http://guidetodatamining.com/)
+    This guide follows a learn-by-doing approach. Instead of passively reading the book, I encourage you to work through the exercises and experiment with the Python code I provide. I hope you will be actively involved in trying out and programming data mining techniques. The textbook is laid out as a series of small steps that build on each other until, by the time you complete the book, you have laid the foundation for understanding data mining techniques.
 
 ## Top 10 Essential Books for the Data Enthusiast
 1. Data Science
@@ -54,6 +64,7 @@ Variety of curated data science books
     
     - Top Free Recommendation: [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
     
+      This book descibes the important ideas in these areas in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of color graphics. It should be a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting--the first comprehensive treatment of this topic in any book.
       The good news is, this is pretty much the most important book you are going to read in the space. It will tie everything together for you in a way that I haven't seen any other book attempt. - Enceladus Transit, Amazon Review
     
 6. Practical Machine Learning
@@ -87,7 +98,7 @@ Variety of curated data science books
     
     - Top Free Recommendation: [Mining of Massive Datasets](http://www.mmds.org/)
     
-      The book, like the course, is designed at the undergraduate computer science level with no formal prerequisites. To support deeper explorations, most of the chapters are supplemented with further reading references.
+      The book is based on Stanford Computer Science course CS246: Mining Massive Datasets (and CS345A: Data Mining). The book, like the course, is designed at the undergraduate computer science level with no formal prerequisites. To support deeper explorations, most of the chapters are supplemented with further reading references.
     
 9. SQL
     - Top Paid Recommendation: [Learning SQL, Second Edition](http://www.amazon.com/Learning-SQL-Alan-Beaulieu/dp/0596520832/)
@@ -105,5 +116,5 @@ Variety of curated data science books
     
     - Top Free Recommendation: [Think Stats: Probability and Statistics for Programmers, Second Edition](http://www.greenteapress.com/thinkstats2/index.html)
     
-      Think Stats emphasizes simple techniques you can use to explore real data sets and answer interesting questions. The book presents a case study using data from the National Institutes of Health. Readers are encouraged to work on a project with real datasets.
+      Think Stats is an introduction to Probability and Statistics for Python programmers. Think Stats emphasizes simple techniques you can use to explore real data sets and answer interesting questions. The book presents a case study using data from the National Institutes of Health. Readers are encouraged to work on a project with real datasets.
     
