@@ -52,7 +52,7 @@ Variety of curated data science books
     
       The author is an expert, this is evidenced by the excellent insights he gives into the complex math behind the machine learning algorithms. I have worked for quite some time with neural networks and have had coursework in linear algebra, probability and regression analysis, and found some of the stuff in the book quite illuminating. - Sidhant, Amazon Review
     
-    - Top Free Recommendation: [Elements of Statistical Learning](http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf)
+    - Top Free Recommendation: [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
     
       The good news is, this is pretty much the most important book you are going to read in the space. It will tie everything together for you in a way that I haven't seen any other book attempt. - Enceladus Transit, Amazon Review
     
