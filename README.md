@@ -2,7 +2,7 @@
 Variety of curated data science books
 
 ## Books for Machine Learning and Data Science
-- [Data Strategy](https://www.amazon.com/Data-Strategy-Profit-Analytics-Internet/dp/074947985X/)
+- [Data Strategy: How to Profit from a World of Big Data, Analytics and the Internet of Things](https://www.amazon.com/Data-Strategy-Profit-Analytics-Internet/dp/074947985X/)
 
 ## 5 Free Must-Read Books for Machine Learning and Data Science
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
@@ -118,3 +118,63 @@ Variety of curated data science books
     
       Think Stats is an introduction to Probability and Statistics for Python programmers. Think Stats emphasizes simple techniques you can use to explore real data sets and answer interesting questions. The book presents a case study using data from the National Institutes of Health. Readers are encouraged to work on a project with real datasets.
     
+## 5 eBooks to Read Before Getting into a Data Science or Big Data Career
+- [Big Data: The Numbers Game Deciphered](http://www.simplilearn.com/the-numbers-game-deciphered-guide-pdf)
+    For a crisp, concise overview of the world of Big Data, get this pithy 11 page eBook.The eBook begins by setting the context by touching upon the biggest developments in data science. In addition, you will learn all about:
+        - Educational qualifications to become a data scientist;
+        - Technical and non-technical skill sets for a data science role;
+        - Resources to build on your learning;
+            And much more!
+
+- [Top Programming Languages for a Data Scientist](http://www.simplilearn.com/top-programming-languages-for-data-scientist-guide-pdf)
+    Programming is a core technical skill that is an absolute must-have for data scientists. Learn which programming languages to prioritize for data science work with this informative guide. Find inside:
+        - A list of the top 10 programming languages for a data science career;
+        - Features of these programming languages;
+        - How to apply your learning to become a data scientist.
+        
+- [8 Essential Concepts of Big Data and Hadoop](http://www.simplilearn.com/big-data-and-hadoop-8-essential-concepts-guide-pdf)
+    The centerpiece of the Big Data revolution, Hadoop is the most important technology in the Big Data family. Download this handy guide to learn all you need to know about Hadoop & its ecosystem.
+    
+- [Secret to Unlocking Tableau's Hidden Potential](http://www.simplilearn.com/secret-to-unlocking-tableau-hidden-potential-guide-pdf)
+    Tableau makes analytics easy and accessible to not just analysts but also top execs,IT professionals,and everyone else in between. Tableau is also currently seen to be the market leader when it comes to Self-Service Business Intelligence with a high degree of execution. If you’re looking for tips, useful hacks, & secret techniques to get the most out of Tableau, this eBook will teach you what you need to know.You will find out about its hidden functionalities and explore unused features that will make you a Tableau superstar.
+
+- [Top 25 Interview Questions and Answers: Big Data Analysis](http://www.simplilearn.com/top-big-data-analysis-interview-questions-answers-guide-pdf)
+    You could be the most knowledgeable data professional in the world, but unless you make an impression in your job interview, it’s unlikely you’ll land your dream role. Get a peek into the mind of the Data Science interviewer with this compilation of the top 25 Big Data interview questions and answers.
+
+## 5 eBooks to Read Before Getting into a MAchine Learning Career
+- [Introduction to Machine Learning](http://ai.stanford.edu/~nilsson/mlbook.html)
+    Nils J. Nilsson of Stanford put these notes together in the mid 1990s. Before you turn up your nopse at the thought of learning from something from the 90s, remember that foundation is foundation, regardless of when it was written about. Sure, many important advancements have been made in machine learning since this was put together, as Nilsson himself says, but these notes cover much of what is still considered relevant elementary material in a straightforward and focused manner. There are no diversions related to advancements of the past few decades, which authors often want to cover tangentially even in introductory texts. There is, however, a lot of information about statistical learning, learning theory, classification, and a variety of algorithms to whet your appetite. At < 200 pages, this can be read rather quickly.
+
+- [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+    This book covering machine learning is written by Shai Shalev-Shwartz and Shai Ben-David. This book is newer, longer, and more advanced than the previous offering, but it is also a logical next step. This will delve deeper into more algorithms, their descriptions, and provide a bridge toward practicality as well. The focus on theory should be a clue to newcomers of its importance to really understand what is powering machine learning algorithms. The Advanced Theory section covers some concepts which may be beyond the scope or desire of a newcomer, but the option exists to have a look.
+
+- [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
+    This introductory text on Bayesian machine learning is one of the most well-known on the topic as far as I am aware, and happens to have a free online version available. An Amazon review from Arindam Banerjee of the University of Minnesota has this to say:
+    Bayesian Machine LearningThe book has wide coverage of probabilistic machine learning, including discrete graphical models, Markov decision processes, latent variable models, Gaussian process, stochastic and deterministic inference, among others. The material is excellent for advanced undergraduate or introductory graduate course in graphical models, or probabilistic machine learning. The exposition throughout the book uses numerous diagrams and examples, and the book comes with an extensive software toolbox...
+
+    It should be noted that the toolbox being referred to is implemented in MATLAB, which is no longer the default machine learning implementation language, at least not generally. The toolbox is not the book's only virtue, however. This provides a great jumping off point for those interested in probabilistic machine learning.
+
+- [Deep Learning](http://www.deeplearningbook.org/)
+    This is the soon-to-be-released-in-print deep learning book by Goodfellow, Bengio and Courville, which has a freely-available final draft copy on its official website. The following 2 excerpts are from the book's website, one providing an overview of its contents, the other putting almost everyone interested in reading the book at ease:
+    The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free. The print version will be available for sale soon.
+    One of these target audiences is university students(undergraduate or graduate) learning about machine learning, including those who are beginning a career in deep learning and artiﬁcial intelligence research. The other target audience is software engineers who do not have a machine learning or statistics background, but want to rapidly acquire one and begin using deep learning in their product or platform.
+
+    You would be hard-pressed to find a better resource from which to learn all about deep learning.
+
+- [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
+    Sutton and Barto's authoritative classic is getting a makeover. This is a link to the second draft, which is currently in progress (and freely-available while it is).
+
+    Reinforcement learning is of incredible research interest these days, and for good reason. Given its recent high-profile success as part of AlphaGo, its potential in self-driving cars and similar systems, and its marriage with deep learning, there is little reason to believe that reinforcement learning, which is undoubtedly to play a major role in any form of "General AI" (or anything resembling it), is going anywhere. Indeed, these are all reasons that a second draft of this book is in the works.
+
+    You can get a sense of the importance of this book in the field of reinforcement learning given that it is referred to simply as "Sutton and Barto." This Amazon review from David Tan sums the book up nicely (and allays any fears related to "is it too complex for me to understand?"):
+
+    The book starts with examples and intuitive introduction and definition of reinforcement learning. It follows with 3 chapters on the 3 fundamental approaches to reinforcement learning: Dynamic programming, Monte Carlo and Temporal Difference methods. Subsequent chapters build on these methods to generalize to a whole spectrum of solutions and algorithms.
+
+    The book is very readable by average computer students. Possibly the only difficult one is chapter 8, which deals with some neural network concepts.
+
+    Do keep in mind the above is in regards to the first edition; it should generalize to the second, however.
+
+    I wish you well on your quest to learn more about machine learning from free ebooks. Check the related links below for ever more related ebook resources.
+
+
+
