@@ -76,7 +76,7 @@ Variety of curated data science books
       -- Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data
       -- Deep learning, a powerful set of techniques for learning in neural networks
     
-    - Top Free Recommendation #1: [Deep Learning](http://www.deeplearningbook.org/)
+    - Top Free Recommendation #2: [Deep Learning](http://www.deeplearningbook.org/)
     
       The in-preparation, likely to-be definitive deep learning book of the near future, written by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. The development version is updated monthly, and will be freely available until publication.
       
