@@ -4,7 +4,7 @@ Variety of curated data science books
 ## Books for Machine Learning and Data Science
 - [Data Strategy: How to Profit from a World of Big Data, Analytics and the Internet of Things](https://www.amazon.com/Data-Strategy-Profit-Analytics-Internet/dp/074947985X/)
 
-## 5 Free Must-Read Books for Machine Learning and Data Science
+## 6 Free Must-Read Books for Machine Learning and Data Science
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
     An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view. The Bayesian method is the natural approach to inference, yet it is hidden from readers behind chapters of slow, mathematical analysis. The typical text on Bayesian inference involves two to three chapters on probability theory, then enters what Bayesian inference is. Unfortunately, due to mathematical intractability of most Bayesian models, the reader is only shown simple, artificial examples. This can leave the user with a so-what feeling about Bayesian inference. In fact, this was the author's own prior opinion.
     
@@ -19,6 +19,8 @@ Variety of curated data science books
     
 - [A Programmer's Guide to Data Mining: The Ancient Art of the Numerati](http://guidetodatamining.com/)
     This guide follows a learn-by-doing approach. Instead of passively reading the book, I encourage you to work through the exercises and experiment with the Python code I provide. I hope you will be actively involved in trying out and programming data mining techniques. The textbook is laid out as a series of small steps that build on each other until, by the time you complete the book, you have laid the foundation for understanding data mining techniques.
+
+- [Forecasting: Principles and Practices -2nd Edition](https://otexts.com/fpp2/): This textbook is intended to provide a comprehensive introduction to forecasting methods using R and to present enough information about each method for readers to be able to use them sensibly. We don’t attempt to give a thorough discussion of the theoretical details behind each method, although the references at the end of each chapter will fill in many of those details.
 
 ## Top 10 Essential Books for the Data Enthusiast
 1. Data Science
