@@ -178,5 +178,5 @@ Variety of curated data science books
 
     I wish you well on your quest to learn more about machine learning from free ebooks. Check the related links below for ever more related ebook resources.
 
-
+- [Knime Press](https://www.knime.com/knimepress)
 
