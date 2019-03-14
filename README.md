@@ -89,9 +89,19 @@ Variety of curated data science books
       -- Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data
       -- Deep learning, a powerful set of techniques for learning in neural networks
     
-    - Top Free Recommendation #2: [Deep Learning](http://www.deeplearningbook.org/)
+    - Top Free Recommendation #2: [Deep Learning](http://www.deeplearningbook.org/): The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free. Likely to-be definitive deep learning book of the near future, written by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. 
     
-      The in-preparation, likely to-be definitive deep learning book of the near future, written by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. The development version is updated monthly, and will be freely available until publication.
+    - Top Free Recommendation #3: [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf): Developed by LISA lab at University of Montreal, this free and concise tutorial presented in the form of a book explores the basics of machine learning. The book emphasizes with using the [Theano](https://pypi.python.org/pypi/Theano) library (developed originally by the university itself) for creating deep learning models in Python.
+    
+    - Top Free Recommendation #4: [Deep Learning: Methods and Applications](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DeepLearning-NowPublishing-Vol7-SIG-039.pdf): This book provides an overview of general deep learning methodology and its applications to a variety of signal and information processing tasks.
+    
+    - Top Free Recommendation #5: [First Contact with TensorFlow, get started with Deep Learning Programming](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/): This book is oriented to engineers with only some basic understanding of Machine Learning who want to expand their wisdom in the exciting world of Deep Learning with a hands-on approach that uses TensorFlow.
+    
+    - Top Free Recommendation #6: [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks): This title covers Neural networks in depth. Neural networks are a bio-inspired mechanism of data processing, that enables computers to learn technically similar to a brain and even generalize once solutions to enough problem instances are taught. Available in English and German.
+    
+    - Top Free Recommendation #7: [Neural Network Design (2nd edition)](http://hagan.ecen.ceat.okstate.edu/nnd.html): NEURAL NETWORK DESIGN (2nd Edition) provides a clear and detailed survey of fundamental neural network architectures and learning rules. In it, the authors emphasize a fundamental understanding of the principal neural networks and the methods for training them. The authors also discuss applications of networks to practical engineering problems in pattern recognition, clustering, signal processing, and control systems. Readability and natural flow of material is emphasized throughout the text.
+    
+    - Top Free Recommendation #8: [Neural Networks and Learning Machines (3rd edition)](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf): This third edition of Simon Haykin’s book provides an up-to-date treatment of neural networks in a comprehensive, thorough and readable manner, split into three sections. The book begins by looking at the classical approach on supervised learning, before continuing on to kernel methods based on radial-basis function (RBF) networks. The final part of the book is devoted to regularization theory, which is at the core of machine learning.
       
 8. Data Mining
     - Top Paid Recommendation: [Data Mining: Concepts and Techniques, Third Edition](http://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790/)
